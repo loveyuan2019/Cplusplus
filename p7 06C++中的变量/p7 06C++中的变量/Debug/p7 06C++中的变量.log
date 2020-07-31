@@ -1,0 +1,12 @@
+﻿生成启动时间为 2020/7/19 13:21:19。
+     1>项目“F:\C++ practise\p7 06C++中的变量\p7 06C++中的变量\p7 06C++中的变量.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\06_python\vs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "p7 06c++中变量.cpp"
+         p7 06c++中变量.cpp
+     1>f:\c++ practise\p7 06c++中的变量\p7 06c++中的变量\p7 06c++中变量.cpp(8): error C2373: “num”: 重定义；不同的类型修饰符
+                 f:\c++ practise\p7 06c++中的变量\p7 06c++中的变量\p7 06c++中变量.cpp(7) : 参见“num”的声明
+     1>已完成生成项目“F:\C++ practise\p7 06C++中的变量\p7 06C++中的变量\p7 06C++中的变量.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.28

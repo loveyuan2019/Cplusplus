@@ -1,0 +1,14 @@
+﻿生成启动时间为 2020/7/21 6:46:42。
+     1>项目“F:\C++ practise\p10 09C++语句的输入与输出\p10 09C++语句的输入与输出\p10 09C++语句的输入与输出.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\06_python\vs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "p10 09C++语句的输入与输出.cpp"
+         p10 09C++语句的输入与输出.cpp
+     1>f:\c++ practise\p10 09c++语句的输入与输出\p10 09c++语句的输入与输出\p10 09c++语句的输入与输出.cpp(21): warning C4305: “初始化”: 从“double”到“float”截断
+       Link:
+         D:\06_python\vs\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\C++ practise\p10 09C++语句的输入与输出\Debug\p10 09C++语句的输入与输出.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\C++ practise\p10 09C++语句的输入与输出\Debug\p10 09C++语句的输入与输出.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\C++ practise\p10 09C++语句的输入与输出\Debug\p10 09C++语句的输入与输出.lib" /MACHINE:X86 "Debug\p10 09C++语句的输入与输出.obj"
+         p10 09C++语句的输入与输出.vcxproj -> F:\C++ practise\p10 09C++语句的输入与输出\Debug\p10 09C++语句的输入与输出.exe
+     1>已完成生成项目“F:\C++ practise\p10 09C++语句的输入与输出\p10 09C++语句的输入与输出\p10 09C++语句的输入与输出.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.63

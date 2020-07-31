@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "p7 06C++中的变量", "p7 06C++中的变量\p7 06C++中的变量.vcxproj", "{537940BC-F331-4BFD-9C9C-77539E1D16A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{537940BC-F331-4BFD-9C9C-77539E1D16A3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{537940BC-F331-4BFD-9C9C-77539E1D16A3}.Debug|Win32.Build.0 = Debug|Win32
+		{537940BC-F331-4BFD-9C9C-77539E1D16A3}.Release|Win32.ActiveCfg = Release|Win32
+		{537940BC-F331-4BFD-9C9C-77539E1D16A3}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

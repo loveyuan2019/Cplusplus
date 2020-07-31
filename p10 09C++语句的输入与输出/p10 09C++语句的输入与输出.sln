@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "p10 09C++语句的输入与输出", "p10 09C++语句的输入与输出\p10 09C++语句的输入与输出.vcxproj", "{83EC3FD1-7366-45AD-8599-6BE3263889F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83EC3FD1-7366-45AD-8599-6BE3263889F5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{83EC3FD1-7366-45AD-8599-6BE3263889F5}.Debug|Win32.Build.0 = Debug|Win32
+		{83EC3FD1-7366-45AD-8599-6BE3263889F5}.Release|Win32.ActiveCfg = Release|Win32
+		{83EC3FD1-7366-45AD-8599-6BE3263889F5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
